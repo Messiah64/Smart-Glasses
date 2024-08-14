@@ -1,4 +1,4 @@
-IDK how to do Readme. Just ask me how to run shit if u dk
+IDK how to do Readme. Just ask me on mohdhk.64@gmail.com how to run shit if u dk
 
 **Tasks Outstanding**
 1) Implement Memory with Numpy for past queries
